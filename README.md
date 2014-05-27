@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/abelmartin/jasmine_trellis.svg)
+
 # JasmineTrellis
 
 A new approach to maintable, dynamic fixture generation for Javascript tests.

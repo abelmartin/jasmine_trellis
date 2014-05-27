@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 Gem::Specification.new do |spec|
   spec.required_ruby_version = '~> 2.1'
   spec.name          = "jasmine_trellis"
-  spec.version       = JasmineTrellis::VERSION
+  spec.version       = '0.0.2'
   spec.authors       = ["Abel Martin"]
   spec.email         = ["abel.martin@gmail.com"]
   spec.summary       = %q{Create HTML fixutres dynamicly for Javascript tests.}

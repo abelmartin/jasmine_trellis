@@ -1,3 +1,3 @@
 class JasmineTrellis
-  VERSION = '0.0.1'
+  #The good are coming!
 end
