@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = '0.0.1'
   spec.authors       = ["Abel Martin"]
   spec.email         = ["abel.martin@gmail.com"]
-  spec.summary       = %q{A new approach to maintable, dynamic fixture generation for Javascript tests.}
-  # spec.description   = %q{A single location to define dynamic fixture generation for Jasmine tests}
+  spec.summary       = %q{Create HTML fixutres dynamicly for Javascript tests.}
+  spec.description   = %q{A new approach to maintable, dynamic fixture generation for Javascript tests.}
   spec.homepage      = "https://github.com/abelmartin/jasmine_trellis"
   spec.license       = "MIT"
 
