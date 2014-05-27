@@ -3,9 +3,9 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
-  spec.required_ruby_version = '~> 2.0'
+  spec.required_ruby_version = '~> 2.1'
   spec.name          = "jasmine_trellis"
-  spec.version       = '0.0.1'
+  spec.version       = JasmineTrellis::VERSION
   spec.authors       = ["Abel Martin"]
   spec.email         = ["abel.martin@gmail.com"]
   spec.summary       = %q{Create HTML fixutres dynamicly for Javascript tests.}

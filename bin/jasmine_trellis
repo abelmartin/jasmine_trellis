@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
 
 require 'jasmine_trellis'
+puts "JasmineTrellis #{JasmineTrellis::VERSION}"
